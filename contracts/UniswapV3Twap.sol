@@ -1,5 +1,5 @@
-//SPDX-License-Identifier: MIT
-pragma solidity 0.7.6;
+//SPDX-License-Identifier: GPL-3.0
+pragma solidity >=0.4.22 <0.9.0;
 
 import "@uniswap/v3-core/contracts/interfaces/IUniswapV3Factory.sol";
 import "@uniswap/v3-periphery/contracts/libraries/OracleLibrary.sol";
